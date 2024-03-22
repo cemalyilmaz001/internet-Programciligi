@@ -1,0 +1,7 @@
+1:x1.png:Title Ağaç:200:130
+2:x2.png:Title Ağaç:100:100
+3:x3.png:Title Ağaç:230:100
+4:x4.png:Title Ağaç:400:100
+5:x5.png:Title Ağaç:140:100
+6:x6.png:Title Ağaç:300:100
+7:x7.png:Title Ağaç:120:100

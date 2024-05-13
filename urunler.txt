@@ -1,7 +1,7 @@
-1:x1.png:Title Ağaç:200:130:Lorem ipsum dolor sit amet.
-2:x2.png:Title Ağaç:100:100:Lorem ipsum dolor sit amet.
-3:x3.png:Title Ağaç:230:100:Lorem ipsum dolor sit amet.
-4:x4.png:Title Ağaç:400:100:Lorem ipsum dolor sit amet.
-5:x5.png:Title Ağaç:140:100:Lorem ipsum dolor sit amet.
-6:x6.png:Title Ağaç:300:100:Lorem ipsum dolor sit amet.
-7:x7.png:Title Ağaç:120:100:Lorem ipsum dolor sit amet.
+1:x1.png:Title Ağaç 1:200:130:Lorem ipsum dolor sit amet.
+2:x2.png:Title Ağaç 2:100:100:Lorem ipsum dolor sit amet.
+3:x3.png:Title Ağaç 3:230:100:Lorem ipsum dolor sit amet.
+4:x4.png:Title Ağaç 4:400:100:Lorem ipsum dolor sit amet.
+5:x5.png:Title Ağaç 5:140:100:Lorem ipsum dolor sit amet.
+6:x6.png:Title Ağaç 6:300:100:Lorem ipsum dolor sit amet.
+7:x7.png:Title Ağaç 7:120:100:Lorem ipsum dolor sit amet.
